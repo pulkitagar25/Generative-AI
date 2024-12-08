@@ -26,7 +26,6 @@ This project uses **Google’s Gemini Flash LLM** to build a multi-language invo
 Here is an example of how the extracted details are displayed:
 
 ![Example Output](Screenshot 2024-09-15 135135.png)
-![Example Output](Screenshot 2024-09-15 135215.png)
 
 ## License
 
